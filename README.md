@@ -1,2 +1,2 @@
 # Pruebas-locas
-La primera prueba loquísimaaaaa
+La primera prueba loquísima
